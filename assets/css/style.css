@@ -1,0 +1,10 @@
+
+.col-9 {
+    padding-left: 100px;
+    border-left-style: double;
+    border-left-width: 1px;
+}
+
+.btn-outline-dark {
+    border: none;
+}
